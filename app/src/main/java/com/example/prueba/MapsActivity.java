@@ -276,7 +276,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                         if(metros<200){
 
                             aviso.setVisibility(View.VISIBLE);
-                            aviso.setText("Hay un HUECO a menos de 200 metros suyo");
+                            aviso.setText("Hay un HUECO a "+metros+" suyo");
                             confirmar.setEnabled(true);
                         }
 
