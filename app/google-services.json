@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "724157822015",
+    "firebase_url": "https://reto1maps.firebaseio.com",
+    "project_id": "reto1maps",
+    "storage_bucket": "reto1maps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724157822015:android:cdc023f6c6406ab0b1b48a",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724157822015-33c35hdilflumo12scu5cn3oav5orfou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prueba",
+            "certificate_hash": "d2f58d16e6109504e085ac4f9720972b7ea17f0d"
+          }
+        },
+        {
+          "client_id": "724157822015-f2v0v0mrckua1cebcu0k272271orn3of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVLQycJHjPqoEeACtcE18nkUn7ZhL_MD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724157822015-f2v0v0mrckua1cebcu0k272271orn3of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
